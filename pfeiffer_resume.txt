@@ -1,0 +1,46 @@
+James Pfeiffer - Resume
+ jamesrpfeiffer@gmail.com
+(360)616-1403
+
+ Mathematician who loves programming and algorithms seeking a career in software development.
+
+** Experience**
+ University of Washington, Seattle, WA
+ Research Assistant - March 2012 to Present
+ Instructor - June 2011 to March 2012
+ Teaching Assistant - September 2009 to June 2011
+  Performed mathematical research. Developed and tested conjectures. Wrote computer simulations to gather data.
+ Wrote and published papers and gave seminar talks on results. Main organizer of optimization seminar.
+  Taught differential equations and linear algebra college classes. Designed and gave lectures, homework, and exams.
+  Led classroom discussion sections for college calculus classes. Graded homework and exams. Held office hours.
+
+ Future Advisor, Seattle, WA
+ Software Developer, Intern - March 2012 to May 2012
+  Implemented a portfolio optimization component using an interface to an open-source optimization package.
+ Wrote test cases and checked expected behavior. Solved issues in converting optimization package output to
+ usable data.
+
+** Programming Portfolio**
+ github.com/jamesrp/portfolio
+
+** Computer Languages and Software**
+ Python, Lisp, C, git, Linux server and desktop, MATLAB, mathematical and numerical packages
+
+** Education**
+ University of Washington - PhD, Mathematics 
+September 2009 - December 2013
+ Advisor: Rekha Thomas
+ Thesis: Combinatorial Optimization and Sums of Squares
+
+ University of California, Davis - BS, Mathematics 
+September 2005 - June 2009
+ GPA: 3.93
+
+** Publications**
+ A Semidefinite Approach to the K_i Cover Problem
+ J. Gouveia and J. Pfeiffer
+ Submitted to Operations Research Letters, 2012
+
+ Bootstrap Percolation on the Hamming Torus 
+J. Gravner, C. Hoffman, J. Pfeiffer, and D. Sivakoff
+Submitted to Annals of Applied Probability, 2012
